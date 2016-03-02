@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/priyank/Demo/android-vision-master/visionSamples/barcode-reader/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="97f3b099801a9ad9d70e835b9125273e986eb68d">
+        <dex dex="/home/priyank/Demo/android-vision-master/visionSamples/barcode-reader/app/build/intermediates/pre-dexed/debug/classes-07d311c063f50a43bb490f349447f920991c33dc.jar" />
+    </item>
+    <item
+        jar="/home/priyank/Demo/android-vision-master/visionSamples/barcode-reader/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-vision/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="17449c47df35c754b257532052f1270c444f7993">
+        <dex dex="/home/priyank/Demo/android-vision-master/visionSamples/barcode-reader/app/build/intermediates/pre-dexed/debug/classes-ed3114005f5b42b1ea43568caae745f5cd7af9b3.jar" />
+    </item>
+    <item
+        jar="/home/priyank/Demo/android-vision-master/visionSamples/barcode-reader/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="993834cb17d07d51b92db89d2c330243592ebf77">
+        <dex dex="/home/priyank/Demo/android-vision-master/visionSamples/barcode-reader/app/build/intermediates/pre-dexed/debug/classes-ff022c006c6acff3977f558adb41cca91f33a831.jar" />
+    </item>
+    <item
+        jar="/home/priyank/Demo/android-vision-master/visionSamples/barcode-reader/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="3c729e6d76a36c5dc27e6a4c4009296f49eaa88a">
+        <dex dex="/home/priyank/Demo/android-vision-master/visionSamples/barcode-reader/app/build/intermediates/pre-dexed/debug/classes-3ffa0b5ed28842decf6f30294c27ab02e0a41ddc.jar" />
+    </item>
+    <item
+        jar="/home/priyank/Demo/android-vision-master/visionSamples/barcode-reader/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="d93480da1d303122ee67dc3bc23e6297bdef9951">
+        <dex dex="/home/priyank/Demo/android-vision-master/visionSamples/barcode-reader/app/build/intermediates/pre-dexed/debug/classes-85a341c55ae0e55d0497cead67b78eb945857e96.jar" />
+    </item>
+    <item
+        jar="/home/priyank/Demo/android-vision-master/visionSamples/barcode-reader/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="997773777cf3904c11d6764fe3b7668538220e49">
+        <dex dex="/home/priyank/Demo/android-vision-master/visionSamples/barcode-reader/app/build/intermediates/pre-dexed/debug/classes-5ff33d69b8bae38e73912399e031d2774653d47b.jar" />
+    </item>
+    <item
+        jar="/home/priyank/Demo/android-vision-master/visionSamples/barcode-reader/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="82825756edeeb3b56b15e73b2edd56e93da5a444">
+        <dex dex="/home/priyank/Demo/android-vision-master/visionSamples/barcode-reader/app/build/intermediates/pre-dexed/debug/classes-f8aa36e73ba3b4809601e334ea2bb855de3aaa11.jar" />
+    </item>
+    <item
+        jar="/home/priyank/Demo/android-vision-master/visionSamples/barcode-reader/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="dcf8c83c3dead00a6c4fe313e95f7aaca20dc641">
+        <dex dex="/home/priyank/Demo/android-vision-master/visionSamples/barcode-reader/app/build/intermediates/pre-dexed/debug/classes-5ee72637adf981030908ab51afd477a70c98a1e9.jar" />
+    </item>
+    <item
+        jar="/home/priyank/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.1/support-annotations-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="/home/priyank/Demo/android-vision-master/visionSamples/barcode-reader/app/build/intermediates/pre-dexed/debug/support-annotations-23.0.1-e260e94064c870967a60478ebe3a8f7124fd3785.jar" />
+    </item>
+    <item
+        jar="/home/priyank/Demo/android-vision-master/visionSamples/barcode-reader/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="d61920aba361832a9545a43fa8c9453eb02f18f7">
+        <dex dex="/home/priyank/Demo/android-vision-master/visionSamples/barcode-reader/app/build/intermediates/pre-dexed/debug/classes-9e71a58b005b3e0f86406deffeeb686211c4d5a3.jar" />
+    </item>
+    <item
+        jar="/home/priyank/Demo/android-vision-master/visionSamples/barcode-reader/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="2a7e47da654546f9457deb6132364f1bf33a1857">
+        <dex dex="/home/priyank/Demo/android-vision-master/visionSamples/barcode-reader/app/build/intermediates/pre-dexed/debug/classes-50b0ff4b4a4ff2756abb9dd041a27e1f5dcf457e.jar" />
+    </item>
+    <item
+        jar="/home/priyank/Demo/android-vision-master/visionSamples/barcode-reader/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="3aed37c38c56679602255dd72ef356da5d327cda">
+        <dex dex="/home/priyank/Demo/android-vision-master/visionSamples/barcode-reader/app/build/intermediates/pre-dexed/debug/classes-07ef1d0d84a670482e943fc9c6e8350dac3f69fa.jar" />
+    </item>
+    <item
+        jar="/home/priyank/Demo/android-vision-master/visionSamples/barcode-reader/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/home/priyank/Demo/android-vision-master/visionSamples/barcode-reader/app/build/intermediates/pre-dexed/debug/classes-76307ce441bda14d1686369cc65bf95bb35f823d.jar" />
+    </item>
+    <item
+        jar="/home/priyank/Demo/android-vision-master/visionSamples/barcode-reader/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="041d93cf0533591c29d1d7263b2fa114dbfb20bd">
+        <dex dex="/home/priyank/Demo/android-vision-master/visionSamples/barcode-reader/app/build/intermediates/pre-dexed/debug/classes-e982a4c343a7731e2a87e853132f2d69260fd877.jar" />
+    </item>
+    <item
+        jar="/home/priyank/Demo/android-vision-master/visionSamples/barcode-reader/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="3b05c18f60969ecc2ba49c0409c4b96be2d9cb0c">
+        <dex dex="/home/priyank/Demo/android-vision-master/visionSamples/barcode-reader/app/build/intermediates/pre-dexed/debug/classes-8a917771e00648ef84432878441d7584b56b137b.jar" />
+    </item>
+    <item
+        jar="/home/priyank/Demo/android-vision-master/visionSamples/barcode-reader/app/build/intermediates/exploded-aar/com.android.support/design/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="e5c61a3169221a89654ffcaaed47bba51cf071ad">
+        <dex dex="/home/priyank/Demo/android-vision-master/visionSamples/barcode-reader/app/build/intermediates/pre-dexed/debug/classes-7dbbd28fd0a1771f19c0ed857d6c5d38b2ef263f.jar" />
+    </item>
+    <item
+        jar="/home/priyank/Demo/android-vision-master/visionSamples/barcode-reader/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="95758a2905669affbffc5ddd262921d375674fad">
+        <dex dex="/home/priyank/Demo/android-vision-master/visionSamples/barcode-reader/app/build/intermediates/pre-dexed/debug/classes-83b5bff05495948c73cffb8fc2afbc8ffe3438a1.jar" />
+    </item>
+    <item
+        jar="/home/priyank/Demo/android-vision-master/visionSamples/barcode-reader/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="d0dda274b703dd9c5bb056867649d22b4171ae7d">
+        <dex dex="/home/priyank/Demo/android-vision-master/visionSamples/barcode-reader/app/build/intermediates/pre-dexed/debug/classes-f8ac7cd0f9cfafe590230196f8a5a67be9bc7263.jar" />
+    </item>
+    <item
+        jar="/home/priyank/Demo/android-vision-master/visionSamples/barcode-reader/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="/home/priyank/Demo/android-vision-master/visionSamples/barcode-reader/app/build/intermediates/pre-dexed/debug/classes-5a7babaabdd72ab8b06e87b12897028c6f33d37b.jar" />
+    </item>
+    <item
+        jar="/home/priyank/Demo/android-vision-master/visionSamples/barcode-reader/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="/home/priyank/Demo/android-vision-master/visionSamples/barcode-reader/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.1-d02be2ed2455f38aa8ae05745f4de0eefab2e2cd.jar" />
+    </item>
+    <item
+        jar="/home/priyank/Demo/android-vision-master/visionSamples/barcode-reader/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-measurement/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="482de223655d06253cc6a4955d653f8994169500">
+        <dex dex="/home/priyank/Demo/android-vision-master/visionSamples/barcode-reader/app/build/intermediates/pre-dexed/debug/classes-476f0095b7dd55a38ae52e1f6ad2d5cb747cb0e6.jar" />
+    </item>
+    <item
+        jar="/home/priyank/Demo/android-vision-master/visionSamples/barcode-reader/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="325788a04b436a0bccbc5b4c54cf0f12ebdcbd2d">
+        <dex dex="/home/priyank/Demo/android-vision-master/visionSamples/barcode-reader/app/build/intermediates/pre-dexed/debug/classes-af0882d93bc2b8ddafcc1b42d45fe542610c8155.jar" />
+    </item>
+    <item
+        jar="/home/priyank/Demo/android-vision-master/visionSamples/barcode-reader/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="d294caf562c4c678b2ef351662a0ca6f1a4d06c0">
+        <dex dex="/home/priyank/Demo/android-vision-master/visionSamples/barcode-reader/app/build/intermediates/pre-dexed/debug/classes-4501bfb6a7128a9a3901b0564ba90bd83e445384.jar" />
+    </item>
+    <item
+        jar="/home/priyank/Demo/android-vision-master/visionSamples/barcode-reader/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/22.2.0/jars/libs/internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="0632f06970823b7e3436f649bfa65b47035c91d0">
+        <dex dex="/home/priyank/Demo/android-vision-master/visionSamples/barcode-reader/app/build/intermediates/pre-dexed/debug/internal_impl-22.2.0-03d0813fc85008e9c0f6137300a04deb347ef976.jar" />
+    </item>
+    <item
+        jar="/home/priyank/Demo/android-vision-master/visionSamples/barcode-reader/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="9cf8c0ef60847621c7ad00b4f78dbfc9daba4af2">
+        <dex dex="/home/priyank/Demo/android-vision-master/visionSamples/barcode-reader/app/build/intermediates/pre-dexed/debug/classes-6c02acd4d8dae9c142c151c5a5ad6e881d4677b4.jar" />
+    </item>
+    <item
+        jar="/home/priyank/Demo/android-vision-master/visionSamples/barcode-reader/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="dcb5b75baf05d92e61d5706737200ee55949f97b">
+        <dex dex="/home/priyank/Demo/android-vision-master/visionSamples/barcode-reader/app/build/intermediates/pre-dexed/debug/classes-5c33efcf88d1e0897742973bba6f1dc2a1639647.jar" />
+    </item>
+    <item
+        jar="/home/priyank/Demo/android-vision-master/visionSamples/barcode-reader/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="4477ea44f5ec5ad064022a22691732d7638ff197">
+        <dex dex="/home/priyank/Demo/android-vision-master/visionSamples/barcode-reader/app/build/intermediates/pre-dexed/debug/classes-d65d6cb12849d54190a81d82208bb127409f154c.jar" />
+    </item>
+    <item
+        jar="/home/priyank/Demo/android-vision-master/visionSamples/barcode-reader/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="3178362320bcf51228835b60ff978efadfd1f783">
+        <dex dex="/home/priyank/Demo/android-vision-master/visionSamples/barcode-reader/app/build/intermediates/pre-dexed/debug/classes-5f27035be3c1a16c3b8331639d8354c8a4abde33.jar" />
+    </item>
+    <item
+        jar="/home/priyank/Demo/android-vision-master/visionSamples/barcode-reader/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appinvite/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="b92002cb2f0e11a226ac5bac6dff1dc2a9d0b774">
+        <dex dex="/home/priyank/Demo/android-vision-master/visionSamples/barcode-reader/app/build/intermediates/pre-dexed/debug/classes-e6989d7b6e509a94f8cca8990773f408b09e7ee8.jar" />
+    </item>
+
+</items>
