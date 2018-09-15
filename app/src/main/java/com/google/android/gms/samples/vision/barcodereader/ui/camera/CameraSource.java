@@ -605,34 +605,7 @@ public class CameraSource {
      * @param cb the callback to run
      * @see #cancelAutoFocus()
      */
-    public void autoFocus(@Nullable AutoFocusCallback cb) {
-        synchronized (mCameraLock) {
-            if (mCamera != null) {
-                CameraAutoFocusCallback autoFocusCallback = null;
-                if (cb != null) {
-                    autoFocusCallback = new CameraAutoFocusCallback();
-                    autoFocusCallback.mDelegate = cb;
-                }
-                mCamera.autoFocus(autoFocusCallback);
-            }
-        }
-    }
 
-    /**
-     * Cancels any auto-focus function in progress.
-     * Whether or not auto-focus is currently in progress,
-     * this function will return the focus position to the default.
-     * If the camera does not support auto-focus, this is a no-op.
-     *
-     * @see #autoFocus(AutoFocusCallback)
-     */
-    public void cancelAutoFocus() {
-        synchronized (mCameraLock) {
-            if (mCamera != null) {
-                mCamera.cancelAutoFocus();
-            }
-        }
-    }
 
     /**
      * Sets camera auto-focus move callback.

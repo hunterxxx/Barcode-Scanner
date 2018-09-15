@@ -34,6 +34,8 @@
             </intent-filter>
         </activity>
 
+        <activity android:name=".domain.Result"></activity>
+
         <activity android:name=".BarcodeCaptureActivity"
             android:label="Read Barcode"/>
     </application>

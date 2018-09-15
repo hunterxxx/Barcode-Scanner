@@ -1,0 +1,302 @@
+{
+  "version": 1.0,
+  "meals": [
+    {
+      "id": 1,
+      "name": "Almond milk",
+      "co2": 1.09,
+      "energy": 1.09,
+      "water": 1.09,
+      "alternatives": "Rice milk,oak milk,water",
+      "quote": "Rice milk is getting hip you know, ask the millenials"
+    },
+    {
+      "id": 2,
+      "name": "Almonds",
+      "co2": 2.18,
+      "energy": 26.31,
+      "water": 1.9,
+      "alternatives": "option1,option2",
+      "quote": "Better take a long bath, it's summer and it's getting hot"
+    },
+    {
+      "id": 3,
+      "name": "Beef",
+      "co2": 27.76,
+      "energy": 164.22,
+      "water": 0.47,
+      "alternatives": "option3,option4,option5",
+      "quote": "Better lentils, on Mondays they bring luck!"
+    },
+    {
+      "id": 4,
+      "name": "Cheese slices",
+      "co2": 8.29,
+      "energy": 35.5,
+      "water": 0.15,
+      "alternatives": "Tofu",
+      "quote": "Better take a long bath, it's summer and it's getting hot"
+    },
+    {
+      "id": 5,
+      "name": "Cheese spread",
+      "co2": 6.2,
+      "energy": 26.71,
+      "water": 0.11,
+      "alternatives": "Rice milk,oak milk,water",
+      "quote": "Two more of that and we could feed your neighbors cat"
+    },
+    {
+      "id": 6,
+      "name": "Chicken",
+      "co2": 6.82,
+      "energy": 64.14,
+      "water": 0.34,
+      "alternatives": "option1,option3",
+      "quote": "Better take a long bath, it's summer and it's getting hot"
+    },
+    {
+      "id": 7,
+      "name": "Chocolate",
+      "co2": 14.67,
+      "energy": 90.25,
+      "water": 0.38,
+      "alternatives": "option3,option4,option6",
+      "quote": "Two more of that and we could feed your neighbors cat"
+    },
+    {
+      "id": 8,
+      "name": "Chocolate milk",
+      "co2": 4.65,
+      "energy": 26.92,
+      "water": 0.11,
+      "alternatives": "Tofu",
+      "quote": "Better take a long bath, it's summer and it's getting hot"
+    },
+    {
+      "id": 9,
+      "name": "Corn",
+      "co2": 0.19,
+      "energy": 1.88,
+      "water": 0.06,
+      "alternatives": "Rice milk,oak milk,water",
+      "quote": "Two more of that and we could feed your neighbors cat"
+    },
+    {
+      "id": 10,
+      "name": "Dried Beef",
+      "co2": 27.76,
+      "energy": 164.22,
+      "water": 0.47,
+      "alternatives": "option1,option4",
+      "quote": "Better take a long bath, it's summer and it's getting hot"
+    },
+    {
+      "id": 11,
+      "name": "Dry Pasta",
+      "co2": 1.49,
+      "energy": 17.23,
+      "water": 0.01,
+      "alternatives": "option3,option4,option7",
+      "quote": "Two more of that and we could feed your neighbors cat"
+    },
+    {
+      "id": 12,
+      "name": "Fresh ravioli with meat",
+      "co2": 10.25,
+      "energy": 66.22,
+      "water": 0.16,
+      "alternatives": "Tofu",
+      "quote": "Better take a long bath, it's summer and it's getting hot"
+    },
+    {
+      "id": 13,
+      "name": "Fresh ravioli with spinach and ricotta",
+      "co2": 3.06,
+      "energy": 20.38,
+      "water": 0.04,
+      "alternatives": "Rice milk,oak milk,water",
+      "quote": "Two more of that and we could feed your neighbors cat"
+    },
+    {
+      "id": 14,
+      "name": "Gruyére",
+      "co2": 8.29,
+      "energy": 35.5,
+      "water": 0.15,
+      "alternatives": "option1,option5",
+      "quote": "Better take a long bath, it's summer and it's getting hot"
+    },
+    {
+      "id": 15,
+      "name": "Ham",
+      "co2": 10.76,
+      "energy": 91.4,
+      "water": 0.52,
+      "alternatives": "option3,option4,option8",
+      "quote": "Two more of that and we could feed your neighbors cat"
+    },
+    {
+      "id": 16,
+      "name": "Lentils",
+      "co2": 0.78,
+      "energy": 5.67,
+      "water": 0.14,
+      "alternatives": "Tofu",
+      "quote": "Better take a long bath, it's summer and it's getting hot"
+    },
+    {
+      "id": 17,
+      "name": "Low fat organic milk",
+      "co2": 1.11,
+      "energy": 1.39,
+      "water": 0,
+      "alternatives": "Rice milk,oak milk,water",
+      "quote": "Two more of that and we could feed your neighbors cat"
+    },
+    {
+      "id": 18,
+      "name": "Non-free range eggs",
+      "co2": 3.94,
+      "energy": 36.1,
+      "water": 0.18,
+      "alternatives": "option1,option6",
+      "quote": "Better take a long bath, it's summer and it's getting hot"
+    },
+    {
+      "id": 19,
+      "name": "Pancetta",
+      "co2": 10.76,
+      "energy": 91.4,
+      "water": 0.52,
+      "alternatives": "option3,option4,option9",
+      "quote": "Two more of that and we could feed your neighbors cat"
+    },
+    {
+      "id": 20,
+      "name": "Pork",
+      "co2": 10.76,
+      "energy": 91.4,
+      "water": 0.52,
+      "alternatives": "Tofu",
+      "quote": "Better take a long bath, it's summer and it's getting hot"
+    },
+    {
+      "id": 21,
+      "name": "Pork sausages",
+      "co2": 10.76,
+      "energy": 91.4,
+      "water": 0.52,
+      "alternatives": "Rice milk,oak milk,water",
+      "quote": "Two more of that and we could feed your neighbors cat"
+    },
+    {
+      "id": 22,
+      "name": "Quorn",
+      "co2": 0.19,
+      "energy": 1.88,
+      "water": 0.06,
+      "alternatives": "option1,option7",
+      "quote": "Better take a long bath, it's summer and it's getting hot"
+    },
+    {
+      "id": 23,
+      "name": "Red kidney beans",
+      "co2": 0.78,
+      "energy": 5.67,
+      "water": 0.14,
+      "alternatives": "option3,option4,option10",
+      "quote": "Two more of that and we could feed your neighbors cat"
+    },
+    {
+      "id": 24,
+      "name": "Rice milk",
+      "co2": 0.26,
+      "energy": 0.26,
+      "water": 0.26,
+      "alternatives": "Tofu",
+      "quote": "Better take a long bath, it's summer and it's getting hot"
+    },
+    {
+      "id": 25,
+      "name": "Risotto rice",
+      "co2": 1.03,
+      "energy": 5.43,
+      "water": 0.35,
+      "alternatives": "Rice milk,oak milk,water",
+      "quote": "Two more of that and we could feed your neighbors cat"
+    },
+    {
+      "id": 26,
+      "name": "Sliced beef",
+      "co2": 27.76,
+      "energy": 164.22,
+      "water": 0.47,
+      "alternatives": "option1,option8",
+      "quote": "Better take a long bath, it's summer and it's getting hot"
+    },
+    {
+      "id": 27,
+      "name": "Sliced chicken",
+      "co2": 6.8,
+      "energy": 64,
+      "water": 0.34,
+      "alternatives": "option3,option4,option11",
+      "quote": "Two more of that and we could feed your neighbors cat"
+    },
+    {
+      "id": 28,
+      "name": "Smoked cheese",
+      "co2": 6.2,
+      "energy": 26.71,
+      "water": 0.11,
+      "alternatives": "Tofu",
+      "quote": "Better take a long bath, it's summer and it's getting hot"
+    },
+    {
+      "id": 29,
+      "name": "Spaghetti Carbonara pre-made meal",
+      "co2": 3.44,
+      "energy": 28.52,
+      "water": 0.11,
+      "alternatives": "Rice milk,oak milk,water",
+      "quote": "Two more of that and we could feed your neighbors cat"
+    },
+    {
+      "id": 30,
+      "name": "Tofu",
+      "co2": 3.23,
+      "energy": 14.37,
+      "water": 0,
+      "alternatives": "option1,option9",
+      "quote": "Better take a long bath, it's summer and it's getting hot"
+    },
+    {
+      "id": 31,
+      "name": "UHT milk",
+      "co2": 1.31,
+      "energy": 5.82,
+      "water": 0.02,
+      "alternatives": "option3,option4,option12",
+      "quote": "Two more of that and we could feed your neighbors cat"
+    },
+    {
+      "id": 32,
+      "name": "Vegetarian salami",
+      "co2": 0.19,
+      "energy": 1.88,
+      "water": 0.06,
+      "alternatives": "Tofu",
+      "quote": "Better take a long bath, it's summer and it's getting hot"
+    },
+    {
+      "id": 33,
+      "name": "Wholegrain dry pasta",
+      "co2": 1.49,
+      "energy": 17.23,
+      "water": 0.01,
+      "alternatives": "Rice milk,oak milk,water",
+      "quote": "Two more of that and we could feed your neighbors cat"
+    }
+  ]
+}
